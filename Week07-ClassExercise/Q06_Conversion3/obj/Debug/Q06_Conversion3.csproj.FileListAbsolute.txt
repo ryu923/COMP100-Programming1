@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q06_Conversion3\bin\Debug\Q06_Conversion3.exe.config
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q06_Conversion3\bin\Debug\Q06_Conversion3.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q06_Conversion3\bin\Debug\Q06_Conversion3.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q06_Conversion3\obj\Debug\Q06_Conversion3.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q06_Conversion3\obj\Debug\Q06_Conversion3.pdb

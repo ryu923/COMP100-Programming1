@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q09_Grade\bin\Debug\Q09_Grade.exe.config
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q09_Grade\bin\Debug\Q09_Grade.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q09_Grade\bin\Debug\Q09_Grade.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q09_Grade\obj\Debug\Q09_Grade.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q09_Grade\obj\Debug\Q09_Grade.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q09_Grade\obj\Debug\Q09_Grade.csprojResolveAssemblyReference.cache

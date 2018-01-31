@@ -1,0 +1,12 @@
+C:\Users\Ryu\Desktop\Week10-ArraysPPT\Slide11-Split_ToCharArray\bin\Debug\Slide11-Split_ToCharArray.exe.config
+C:\Users\Ryu\Desktop\Week10-ArraysPPT\Slide11-Split_ToCharArray\bin\Debug\Slide11-Split_ToCharArray.exe
+C:\Users\Ryu\Desktop\Week10-ArraysPPT\Slide11-Split_ToCharArray\bin\Debug\Slide11-Split_ToCharArray.pdb
+C:\Users\Ryu\Desktop\Week10-ArraysPPT\Slide11-Split_ToCharArray\obj\Debug\Slide11-Split_ToCharArray.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week10-ArraysPPT\Slide11-Split_ToCharArray\obj\Debug\Slide11-Split_ToCharArray.exe
+C:\Users\Ryu\Desktop\Week10-ArraysPPT\Slide11-Split_ToCharArray\obj\Debug\Slide11-Split_ToCharArray.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week10-ArraysPPT\Slide11-Split_ToCharArray\bin\Debug\Slide11-Split_ToCharArray.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week10-ArraysPPT\Slide11-Split_ToCharArray\obj\Debug\Slide11-Split_ToCharArray.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week10-ArraysPPT\Slide11-Split_ToCharArray\obj\Debug\Slide11-Split_ToCharArray.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week10-ArraysPPT\Slide11-Split_ToCharArray\bin\Debug\Slide11-Split_ToCharArray.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week10-ArraysPPT\Slide11-Split_ToCharArray\bin\Debug\Slide11-Split_ToCharArray.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week10-ArraysPPT\Slide11-Split_ToCharArray\obj\Debug\Slide11-Split_ToCharArray.csprojResolveAssemblyReference.cache

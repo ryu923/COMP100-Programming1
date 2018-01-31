@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q17_Pattern3\bin\Debug\Q17_Pattern3.exe.config
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q17_Pattern3\bin\Debug\Q17_Pattern3.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q17_Pattern3\bin\Debug\Q17_Pattern3.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q17_Pattern3\obj\Debug\Q17_Pattern3.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q17_Pattern3\obj\Debug\Q17_Pattern3.pdb

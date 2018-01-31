@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part2\bin\Debug\Part2.exe.config
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part2\bin\Debug\Part2.exe
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part2\bin\Debug\Part2.pdb
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part2\obj\Debug\Part2.exe
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part2\obj\Debug\Part2.pdb
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part2\obj\Debug\Part2.csprojResolveAssemblyReference.cache

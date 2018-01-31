@@ -1,0 +1,2 @@
+C:\Users\Ryu\Desktop\Week04-ClassExercise2\Q2_FlowChart2\bin\Debug\Q2_FlowChart2.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week04-ClassExercise2\Q2_FlowChart2\bin\Debug\Q2_FlowChart2.exe.config

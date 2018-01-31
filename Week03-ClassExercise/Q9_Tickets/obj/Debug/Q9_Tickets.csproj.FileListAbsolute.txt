@@ -1,0 +1,5 @@
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q9_Tickets\bin\Debug\Q9_Tickets.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q9_Tickets\bin\Debug\Q9_Tickets.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q9_Tickets\bin\Debug\Q9_Tickets.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q9_Tickets\obj\Debug\Q9_Tickets.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q9_Tickets\obj\Debug\Q9_Tickets.pdb

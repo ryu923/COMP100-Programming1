@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q02_TwoIntegers\bin\Debug\Q02_TwoIntegers.exe.config
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q02_TwoIntegers\bin\Debug\Q02_TwoIntegers.exe
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q02_TwoIntegers\bin\Debug\Q02_TwoIntegers.pdb
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q02_TwoIntegers\obj\Debug\Q02_TwoIntegers.exe
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q02_TwoIntegers\obj\Debug\Q02_TwoIntegers.pdb

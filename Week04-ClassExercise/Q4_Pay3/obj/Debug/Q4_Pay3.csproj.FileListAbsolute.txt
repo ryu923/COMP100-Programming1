@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q4_Pay3\bin\Debug\Q4_Pay3.exe.config
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q4_Pay3\bin\Debug\Q4_Pay3.exe
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q4_Pay3\bin\Debug\Q4_Pay3.pdb
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q4_Pay3\obj\Debug\Q4_Pay3.exe
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q4_Pay3\obj\Debug\Q4_Pay3.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ryu\Desktop\Week12-Methods2PPT\Slide13-14_NameArgument\bin\Debug\Slide13-14_NameArgument.exe.config
+C:\Users\Ryu\Desktop\Week12-Methods2PPT\Slide13-14_NameArgument\bin\Debug\Slide13-14_NameArgument.exe
+C:\Users\Ryu\Desktop\Week12-Methods2PPT\Slide13-14_NameArgument\bin\Debug\Slide13-14_NameArgument.pdb
+C:\Users\Ryu\Desktop\Week12-Methods2PPT\Slide13-14_NameArgument\obj\Debug\Slide13-14_NameArgument.exe
+C:\Users\Ryu\Desktop\Week12-Methods2PPT\Slide13-14_NameArgument\obj\Debug\Slide13-14_NameArgument.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week12-Methods2PPT\Slide13-14_NameArgument\bin\Debug\Slide13-14_NameArgument.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week12-Methods2PPT\Slide13-14_NameArgument\obj\Debug\Slide13-14_NameArgument.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week12-Methods2PPT\Slide13-14_NameArgument\obj\Debug\Slide13-14_NameArgument.pdb

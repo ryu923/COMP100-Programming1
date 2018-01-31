@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide15_Exercise2\bin\Debug\Slide15_Exercise2.exe.config
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide15_Exercise2\bin\Debug\Slide15_Exercise2.exe
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide15_Exercise2\bin\Debug\Slide15_Exercise2.pdb
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide15_Exercise2\obj\Debug\Slide15_Exercise2.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide15_Exercise2\obj\Debug\Slide15_Exercise2.exe
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide15_Exercise2\obj\Debug\Slide15_Exercise2.pdb

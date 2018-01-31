@@ -1,0 +1,12 @@
+C:\Users\Ryu\Desktop\Week03-ClassExercise\Q1_Name\bin\Debug\Q1_Name.exe.config
+C:\Users\Ryu\Desktop\Week03-ClassExercise\Q1_Name\bin\Debug\Q1_Name.exe
+C:\Users\Ryu\Desktop\Week03-ClassExercise\Q1_Name\bin\Debug\Q1_Name.pdb
+C:\Users\Ryu\Desktop\Week03-ClassExercise\Q1_Name\obj\Debug\Q1_Name.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week03-ClassExercise\Q1_Name\obj\Debug\Q1_Name.exe
+C:\Users\Ryu\Desktop\Week03-ClassExercise\Q1_Name\obj\Debug\Q1_Name.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q1_Name\bin\Debug\Q1_Name.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q1_Name\obj\Debug\Q1_Name.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q1_Name\obj\Debug\Q1_Name.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q1_Name\bin\Debug\Q1_Name.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q1_Name\bin\Debug\Q1_Name.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q1_Name\obj\Debug\Q1_Name.csprojResolveAssemblyReference.cache

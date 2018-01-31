@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q16_Pattern2\bin\Debug\Q16_Pattern2.exe.config
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q16_Pattern2\bin\Debug\Q16_Pattern2.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q16_Pattern2\bin\Debug\Q16_Pattern2.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q16_Pattern2\obj\Debug\Q16_Pattern2.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q16_Pattern2\obj\Debug\Q16_Pattern2.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q16_Pattern2\obj\Debug\Q16_Pattern2.csprojResolveAssemblyReference.cache

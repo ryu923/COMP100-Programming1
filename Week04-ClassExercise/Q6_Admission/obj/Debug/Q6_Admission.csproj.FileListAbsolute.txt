@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q6_Admission\bin\Debug\Q6_Admission.exe.config
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q6_Admission\bin\Debug\Q6_Admission.exe
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q6_Admission\bin\Debug\Q6_Admission.pdb
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q6_Admission\obj\Debug\Q6_Admission.exe
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q6_Admission\obj\Debug\Q6_Admission.pdb

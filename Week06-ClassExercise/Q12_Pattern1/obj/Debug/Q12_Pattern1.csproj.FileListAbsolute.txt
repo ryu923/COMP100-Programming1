@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Wee06-ClassExercise\Q12_Pattern1\bin\Debug\Q12_Pattern1.exe.config
+C:\Users\Ryu\Desktop\Wee06-ClassExercise\Q12_Pattern1\bin\Debug\Q12_Pattern1.exe
+C:\Users\Ryu\Desktop\Wee06-ClassExercise\Q12_Pattern1\bin\Debug\Q12_Pattern1.pdb
+C:\Users\Ryu\Desktop\Wee06-ClassExercise\Q12_Pattern1\obj\Debug\Q12_Pattern1.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Wee06-ClassExercise\Q12_Pattern1\obj\Debug\Q12_Pattern1.exe
+C:\Users\Ryu\Desktop\Wee06-ClassExercise\Q12_Pattern1\obj\Debug\Q12_Pattern1.pdb

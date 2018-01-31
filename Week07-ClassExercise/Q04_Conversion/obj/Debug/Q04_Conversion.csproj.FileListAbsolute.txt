@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q04_Conversion\bin\Debug\Q04_Conversion.exe.config
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q04_Conversion\bin\Debug\Q04_Conversion.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q04_Conversion\bin\Debug\Q04_Conversion.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q04_Conversion\obj\Debug\Q04_Conversion.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q04_Conversion\obj\Debug\Q04_Conversion.pdb

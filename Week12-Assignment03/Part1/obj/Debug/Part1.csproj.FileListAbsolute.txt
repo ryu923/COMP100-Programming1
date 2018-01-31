@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part1\bin\Debug\Part1.exe.config
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part1\bin\Debug\Part1.exe
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part1\bin\Debug\Part1.pdb
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part1\obj\Debug\Part1.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part1\obj\Debug\Part1.exe
+C:\Users\Ryu\Desktop\Week12-Assignment03\Part1\obj\Debug\Part1.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week12-Assignment03\Part1\bin\Debug\Part1.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week12-Assignment03\Part1\obj\Debug\Part1.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week12-Assignment03\Part1\obj\Debug\Part1.pdb

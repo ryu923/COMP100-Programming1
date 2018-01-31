@@ -1,0 +1,6 @@
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q6_Validity\bin\Debug\Q6_Validity.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q6_Validity\bin\Debug\Q6_Validity.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q6_Validity\bin\Debug\Q6_Validity.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q6_Validity\obj\Debug\Q6_Validity.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q6_Validity\obj\Debug\Q6_Validity.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q6_Validity\obj\Debug\Q6_Validity.pdb

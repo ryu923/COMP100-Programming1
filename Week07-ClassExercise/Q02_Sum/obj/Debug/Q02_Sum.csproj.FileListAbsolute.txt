@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q02_Sum\bin\Debug\Q02_Sum.exe.config
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q02_Sum\bin\Debug\Q02_Sum.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q02_Sum\bin\Debug\Q02_Sum.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q02_Sum\obj\Debug\Q02_Sum.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q02_Sum\obj\Debug\Q02_Sum.pdb

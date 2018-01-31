@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q07_Conversion4\bin\Debug\Q07_Conversion4.exe.config
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q07_Conversion4\bin\Debug\Q07_Conversion4.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q07_Conversion4\bin\Debug\Q07_Conversion4.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q07_Conversion4\obj\Debug\Q07_Conversion4.exe
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q07_Conversion4\obj\Debug\Q07_Conversion4.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise\Q07_Conversion4\obj\Debug\Q07_Conversion4.csprojResolveAssemblyReference.cache

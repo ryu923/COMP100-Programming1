@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q8_lawnMowing\bin\Debug\Q8_lawnMowing.exe.config
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q8_lawnMowing\bin\Debug\Q8_lawnMowing.exe
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q8_lawnMowing\bin\Debug\Q8_lawnMowing.pdb
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q8_lawnMowing\obj\Debug\Q8_lawnMowing.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q8_lawnMowing\obj\Debug\Q8_lawnMowing.exe
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q8_lawnMowing\obj\Debug\Q8_lawnMowing.pdb

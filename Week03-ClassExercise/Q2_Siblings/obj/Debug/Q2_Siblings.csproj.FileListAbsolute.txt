@@ -1,0 +1,5 @@
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q2_Siblings\bin\Debug\Q2_Siblings.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q2_Siblings\bin\Debug\Q2_Siblings.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q2_Siblings\bin\Debug\Q2_Siblings.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q2_Siblings\obj\Debug\Q2_Siblings.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-ClassExercise\Q2_Siblings\obj\Debug\Q2_Siblings.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q1_Pay\bin\Debug\Q1_Pay.exe.config
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q1_Pay\bin\Debug\Q1_Pay.exe
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q1_Pay\bin\Debug\Q1_Pay.pdb
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q1_Pay\obj\Debug\Q1_Pay.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q1_Pay\obj\Debug\Q1_Pay.exe
+C:\Users\Ryu\Desktop\Week04-ClassExercise\Q1_Pay\obj\Debug\Q1_Pay.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week04-ClassExercise\Q1_Pay\bin\Debug\Q1_Pay.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week04-ClassExercise\Q1_Pay\obj\Debug\Q1_Pay.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week04-ClassExercise\Q1_Pay\obj\Debug\Q1_Pay.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Week03-DataTypePPT\Week03-DataTypePPT\bin\Debug\Week03-DataTypePPT.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Week03-DataTypePPT\Week03-DataTypePPT\bin\Debug\Week03-DataTypePPT.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Week03-DataTypePPT\Week03-DataTypePPT\bin\Debug\Week03-DataTypePPT.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Week03-DataTypePPT\Week03-DataTypePPT\obj\Debug\Week03-DataTypePPT.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Week03-DataTypePPT\Week03-DataTypePPT\obj\Debug\Week03-DataTypePPT.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Week03-DataTypePPT\Week03-DataTypePPT\obj\Debug\Week03-DataTypePPT.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-DataTypePPT\Week03-DataTypePPT\bin\Debug\Week03-DataTypePPT.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-DataTypePPT\Week03-DataTypePPT\bin\Debug\Week03-DataTypePPT.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-DataTypePPT\Week03-DataTypePPT\bin\Debug\Week03-DataTypePPT.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-DataTypePPT\Week03-DataTypePPT\obj\Debug\Week03-DataTypePPT.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-DataTypePPT\Week03-DataTypePPT\obj\Debug\Week03-DataTypePPT.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\1-1. COMP-100 Programming 1\Solutions\Week03-DataTypePPT\Week03-DataTypePPT\obj\Debug\Week03-DataTypePPT.pdb

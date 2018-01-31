@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q09_Tax\bin\Debug\Q09_Tax.exe.config
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q09_Tax\bin\Debug\Q09_Tax.exe
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q09_Tax\bin\Debug\Q09_Tax.pdb
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q09_Tax\obj\Debug\Q09_Tax.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q09_Tax\obj\Debug\Q09_Tax.exe
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q09_Tax\obj\Debug\Q09_Tax.pdb

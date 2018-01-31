@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q01_Menu\bin\Debug\Q01_Menu.exe.config
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q01_Menu\bin\Debug\Q01_Menu.exe
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q01_Menu\bin\Debug\Q01_Menu.pdb
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q01_Menu\obj\Debug\Q01_Menu.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q01_Menu\obj\Debug\Q01_Menu.exe
+C:\Users\Ryu\Desktop\Week05-ClassExercise\Q01_Menu\obj\Debug\Q01_Menu.pdb

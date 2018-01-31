@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide14_Exercise1\bin\Debug\Slide14_Exercise1.exe.config
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide14_Exercise1\bin\Debug\Slide14_Exercise1.exe
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide14_Exercise1\bin\Debug\Slide14_Exercise1.pdb
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide14_Exercise1\obj\Debug\Slide14_Exercise1.exe
+C:\Users\Ryu\Desktop\Week08-MethodsPPT\Slide14_Exercise1\obj\Debug\Slide14_Exercise1.pdb
